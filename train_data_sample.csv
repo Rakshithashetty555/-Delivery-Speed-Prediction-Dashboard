@@ -1,0 +1,498 @@
+products-list__link href,exclusive-new,brand,price,original_price,discount_percent,rating,discounted_price,original_price.1,discount_percent.1,offer_price,material_type,delivery_time_estimate,product_category,delivery_speed_category
+https://www.example.com/product/1455,Bestseller,DenimCraft,₹3341,₹5356,37%,3.2,3235,5356,37%,3293,Polyester,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1045,BESTSELLER,NeoThreads,₹3579,₹5381,33%,3.3,3519,5381,33%,3497,Silk,2-3 days,T-Shirts,Fast
+https://www.example.com/product/1203,TRENDING,TruStep,₹4675,₹6683,30%,2.9,4601,6683,30%,4625,Denim,2-3 days,Sportswear,Slow
+https://www.example.com/product/1147,NEW,ZyraWear,₹1110,₹3301,66%,3.1,1053,3301,66%,1061,Leather,2-3 days,Handbags,Fast
+https://www.example.com/product/1209,BESTSELLER,VogueLift,₹434,₹1687,74%,2.4,364,1687,74%,359,Leather,5-7 days,Handbags,Fast
+https://www.example.com/product/1396,Limited Edition,TruStep,₹3338,₹3573,6%,4.2,3164,3573,6%,3267,Synthetic,2-3 days,Shirts,Moderate
+https://www.example.com/product/1127,Limited Edition,Luxora,₹4572,₹5055,9%,4.3,4398,5055,9%,4505,Linen,4-5 days,Dresses,Fast
+https://www.example.com/product/1027,TRENDING,NeoThreads,₹2647,₹5501,51%,1.2,2596,5501,51%,2589,Nylon,2-3 days,Footwear,Slow
+https://www.example.com/product/1294,NEW,NeoThreads,₹1928,₹3267,40%,1.6,1779,3267,40%,1847,Linen,1-2 weeks,Jackets,Slow
+https://www.ajio.com/tior-girls-floral-a-line-dress/p/701819644_white?,Bestseller,Tior,₹460,₹1999,77%,1.8,2154,2659,79% Off,3187,Synthetic,2-3 days,Footwear,Moderate
+https://www.example.com/product/1076,TRENDING,AeroStyle,₹3552,₹4941,28%,4.6,3374,4941,28%,3481,Leather,4-5 days,Jackets,Moderate
+https://www.example.com/product/1233,TRENDING,ZyraWear,₹4267,₹5075,15%,3.3,4134,5075,15%,4242,Cotton,1-2 weeks,Jackets,Slow
+https://www.example.com/product/1323,NEW,UrbanEdge,₹611,₹2949,79%,3.0,474,2949,79%,533,Nylon,5-7 days,Jeans,Moderate
+https://www.example.com/product/1164,Limited Edition,TruStep,₹385,₹841,54%,4.5,200,841,54%,336,Denim,5-7 days,Dresses,Moderate
+https://www.example.com/product/1073,TRENDING,Luxora,₹305,₹808,62%,2.0,140,808,62%,261,Synthetic,5-7 days,Handbags,Slow
+https://www.example.com/product/1378,BESTSELLER,NeoThreads,₹3563,₹6360,43%,3.3,3434,6360,43%,3486,Silk,5-7 days,Jeans,Fast
+https://www.example.com/product/1424,Bestseller,Luxora,₹671,₹1902,64%,4.8,602,1902,64%,650,Polyester,5-7 days,Jeans,Fast
+https://www.example.com/product/1002,NEW,TruStep,₹1400,₹1975,29%,4.2,1204,1975,29%,1375,Polyester,1-2 weeks,Jackets,Moderate
+https://www.example.com/product/1109,NEW,VogueLift,₹1969,₹2574,23%,4.1,1860,2574,23%,1927,Cotton,5-7 days,Ethnicwear,Fast
+https://www.example.com/product/1459,BESTSELLER,AeroStyle,₹2301,₹3786,39%,4.3,2196,3786,39%,2230,Synthetic,2-3 days,Jackets,Slow
+https://www.example.com/product/1238,TRENDING,NeoThreads,₹2801,₹4527,38%,3.0,2719,4527,38%,2711,Silk,5-7 days,T-Shirts,Slow
+https://www.example.com/product/1261,NEW,DenimCraft,₹1946,₹4363,55%,1.7,1828,4363,55%,1920,Silk,2-3 days,Ethnicwear,Moderate
+https://www.example.com/product/1463,Limited Edition,Flexura,₹1619,₹1994,18%,1.3,1541,1994,18%,1526,Leather,4-5 days,T-Shirts,Slow
+https://www.example.com/product/1044,NEW,Flexura,₹3699,₹6382,42%,2.4,3602,6382,42%,3662,Linen,1-2 weeks,Jackets,Moderate
+https://www.example.com/product/1035,TRENDING,AeroStyle,₹2371,₹3228,26%,2.3,2292,3228,26%,2308,Leather,1-2 weeks,Accessories,Moderate
+https://www.example.com/product/1065,NEW,UrbanEdge,₹3031,₹4202,27%,4.0,2973,4202,27%,2941,Linen,4-5 days,Shirts,Fast
+https://www.example.com/product/1341,TRENDING,NeoThreads,₹4755,₹6627,28%,2.3,4595,6627,28%,4677,Cotton,4-5 days,Dresses,Fast
+https://www.example.com/product/1452,Bestseller,StrideMax,₹4074,₹6882,40%,1.0,3892,6882,40%,4030,Nylon,5-7 days,Accessories,Fast
+https://www.example.com/product/1049,BESTSELLER,DenimCraft,₹4690,₹6375,26%,2.4,4608,6375,26%,4624,Denim,2-3 days,Sportswear,Slow
+https://www.example.com/product/1040,NEW,Flexura,₹4568,₹5927,22%,1.7,4467,5927,22%,4501,Polyester,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1412,Limited Edition,NeoThreads,₹3421,₹4843,29%,2.7,3287,4843,29%,3359,Silk,4-5 days,Jeans,Slow
+https://www.example.com/product/1048,Bestseller,Flexura,₹2790,₹4102,31%,1.3,2598,4102,31%,2753,Polyester,2-3 days,T-Shirts,Slow
+https://www.example.com/product/1112,BESTSELLER,DenimCraft,₹1556,₹2859,45%,3.1,1495,2859,45%,1523,Polyester,1-2 weeks,Jeans,Moderate
+https://www.ajio.com/red-tape-men-casual-shoes-with-pu-upper/p/701397158_green?,BESTSELLER,RED TAPE,₹1190,₹6999,83%,3.2,3381,2528,40% Off,1270,Synthetic,2-3 days,Footwear,Fast
+https://www.example.com/product/1304,NEW,TruStep,₹4263,₹5684,25%,1.8,4142,5684,25%,4183,Synthetic,1-2 weeks,Accessories,Moderate
+https://www.example.com/product/1051,BESTSELLER,Luxora,₹2208,₹2706,18%,5.0,2037,2706,18%,2180,Silk,4-5 days,Jackets,Slow
+https://www.example.com/product/1181,TRENDING,VogueLift,₹352,₹981,64%,2.2,258,981,64%,289,Linen,1-2 weeks,Ethnicwear,Slow
+https://www.example.com/product/1154,BESTSELLER,TruStep,₹2229,₹4978,55%,4.6,2088,4978,55%,2209,Silk,5-7 days,Dresses,Slow
+https://www.example.com/product/1408,Bestseller,ZyraWear,₹4057,₹4954,18%,3.5,3961,4954,18%,4007,Polyester,4-5 days,Sportswear,Slow
+https://www.example.com/product/1259,Limited Edition,NeoThreads,₹4720,₹7457,36%,3.8,4625,7457,36%,4699,Polyester,2-3 days,Shirts,Moderate
+https://www.example.com/product/1167,BESTSELLER,StrideMax,₹1533,₹2061,25%,3.0,1448,2061,25%,1453,Cotton,1-2 weeks,Jackets,Slow
+https://www.example.com/product/1409,Bestseller,NeoThreads,₹2588,₹3643,28%,2.3,2397,3643,28%,2530,Linen,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1005,Bestseller,Luxora,₹2807,₹5357,47%,3.2,2754,5357,47%,2772,Leather,4-5 days,Sportswear,Fast
+https://www.example.com/product/1288,NEW,TruStep,₹535,₹989,45%,3.4,401,989,45%,467,Cotton,4-5 days,T-Shirts,Fast
+https://www.ajio.com/nyrika-women-embroidery-straight-kurta-set/p/701328232_olive?,BESTSELLER,Nyrika,₹648,₹2699,76%,2.0,940,5535,29% Off,2516,Leather,5-7 days,Footwear,Moderate
+https://www.ajio.com/u-s-polo-assn-men-checked-regular-fit-shirt/p/442400931_blue?,Bestseller,U.S. Polo Assn.,₹1727,₹2699,36%,2.0,3815,5658,81% Off,1096,Leather,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1305,Limited Edition,UrbanEdge,₹1698,₹3457,50%,2.0,1509,3457,50%,1668,Nylon,1-2 weeks,Handbags,Fast
+https://www.example.com/product/1145,Limited Edition,UrbanEdge,₹3024,₹5411,44%,4.6,2905,5411,44%,2991,Silk,1-2 weeks,Shirts,Moderate
+https://www.example.com/product/1056,TRENDING,Flexura,₹1291,₹3772,65%,1.7,1107,3772,65%,1225,Cotton,5-7 days,Ethnicwear,Fast
+https://www.example.com/product/1326,BESTSELLER,StrideMax,₹4954,₹5227,5%,2.3,4768,5227,5%,4871,Polyester,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1237,BESTSELLER,NeoThreads,₹2471,₹4322,42%,3.2,2289,4322,42%,2444,Polyester,4-5 days,Sportswear,Fast
+https://www.example.com/product/1419,BESTSELLER,VogueLift,₹712,₹1018,30%,3.2,552,1018,30%,686,Cotton,2-3 days,Jackets,Fast
+https://www.example.com/product/1389,NEW,UrbanEdge,₹2760,₹4552,39%,2.8,2697,4552,39%,2736,Synthetic,2-3 days,Jackets,Slow
+https://www.example.com/product/1089,NEW,Flexura,₹1421,₹3392,58%,3.2,1320,3392,58%,1336,Denim,4-5 days,T-Shirts,Moderate
+https://www.ajio.com/nike-run-defy-lace-up-sports-shoes/p/469755813_blue?,NEWSEASON,NIKE,₹3116,₹3995,22%,2.4,2407,4814,50% Off,1946,Leather,4-5 days,Footwear,Moderate
+https://www.example.com/product/1332,NEW,TruStep,₹1544,₹3970,61%,5.0,1474,3970,61%,1452,Denim,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1379,TRENDING,Flexura,₹3336,₹6027,44%,3.0,3232,6027,44%,3270,Linen,2-3 days,Dresses,Fast
+https://www.example.com/product/1464,BESTSELLER,Luxora,₹864,₹2935,70%,4.6,738,2935,70%,773,Leather,2-3 days,Jeans,Moderate
+https://www.example.com/product/1356,Limited Edition,VogueLift,₹4679,₹6127,23%,2.7,4606,6127,23%,4631,Cotton,4-5 days,Shirts,Moderate
+https://www.example.com/product/1190,Limited Edition,NeoThreads,₹3041,₹5920,48%,4.0,2922,5920,48%,3003,Leather,2-3 days,Shirts,Slow
+https://www.example.com/product/1358,BESTSELLER,Flexura,₹3505,₹5721,38%,2.8,3348,5721,38%,3416,Linen,5-7 days,Handbags,Fast
+https://www.example.com/product/1011,Bestseller,DenimCraft,₹2071,₹4997,58%,3.8,1997,4997,58%,2002,Linen,2-3 days,Handbags,Slow
+https://www.example.com/product/1420,NEW,TruStep,₹3966,₹6208,36%,3.7,3833,6208,36%,3878,Leather,2-3 days,Jackets,Moderate
+https://www.example.com/product/1175,NEW,VogueLift,₹3657,₹4663,21%,1.1,3519,4663,21%,3578,Denim,5-7 days,Footwear,Slow
+https://www.example.com/product/1250,TRENDING,UrbanEdge,₹3893,₹5467,28%,4.8,3769,5467,28%,3855,Denim,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1125,TRENDING,NeoThreads,₹3435,₹6262,45%,4.9,3364,6262,45%,3409,Linen,4-5 days,Jeans,Moderate
+https://www.example.com/product/1377,NEW,Luxora,₹2221,₹5088,56%,4.0,2138,5088,56%,2191,Synthetic,4-5 days,Sportswear,Moderate
+https://www.example.com/product/1042,NEW,TruStep,₹1498,₹2740,45%,3.9,1304,2740,45%,1448,Silk,1-2 weeks,Sportswear,Fast
+https://www.example.com/product/1439,BESTSELLER,TruStep,₹4076,₹5514,26%,3.2,4008,5514,26%,4048,Cotton,4-5 days,Handbags,Fast
+https://www.example.com/product/1220,Limited Edition,Luxora,₹4409,₹6051,27%,2.8,4347,6051,27%,4341,Synthetic,4-5 days,Jackets,Slow
+https://www.example.com/product/1460,NEW,Flexura,₹4341,₹6986,37%,1.6,4220,6986,37%,4296,Nylon,4-5 days,Jeans,Moderate
+https://www.example.com/product/1104,Bestseller,Flexura,₹473,₹1794,73%,4.5,366,1794,73%,414,Polyester,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1062,TRENDING,UrbanEdge,₹549,₹3294,83%,4.3,429,3294,83%,457,Cotton,5-7 days,Sportswear,Slow
+https://www.example.com/product/1041,Bestseller,NeoThreads,₹4858,₹5635,13%,1.3,4765,5635,13%,4817,Linen,1-2 weeks,Jeans,Moderate
+https://www.example.com/product/1462,TRENDING,AeroStyle,₹3475,₹5619,38%,3.2,3356,5619,38%,3425,Linen,5-7 days,Dresses,Moderate
+https://www.example.com/product/1243,NEW,StrideMax,₹2622,₹4254,38%,2.2,2452,4254,38%,2523,Cotton,1-2 weeks,Jeans,Slow
+https://www.example.com/product/1217,BESTSELLER,StrideMax,₹4699,₹6220,24%,2.5,4521,6220,24%,4615,Leather,4-5 days,Shirts,Slow
+https://www.example.com/product/1050,Limited Edition,NeoThreads,₹2164,₹4228,48%,4.5,2059,4228,48%,2084,Cotton,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1054,Limited Edition,DenimCraft,₹741,₹1730,57%,1.8,601,1730,57%,687,Leather,5-7 days,Ethnicwear,Fast
+https://www.example.com/product/1433,NEW,Luxora,₹4046,₹4974,18%,1.8,3972,4974,18%,4019,Linen,2-3 days,Accessories,Slow
+https://www.example.com/product/1292,NEW,StrideMax,₹1886,₹3044,38%,5.0,1780,3044,38%,1859,Linen,2-3 days,Footwear,Moderate
+https://www.example.com/product/1454,TRENDING,DenimCraft,₹1519,₹4158,63%,4.3,1437,4158,63%,1440,Polyester,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1103,BESTSELLER,UrbanEdge,₹3725,₹4560,18%,4.7,3528,4560,18%,3655,Silk,4-5 days,Handbags,Slow
+https://www.example.com/product/1447,TRENDING,AeroStyle,₹3854,₹6385,39%,4.9,3663,6385,39%,3791,Denim,5-7 days,Jackets,Fast
+https://www.example.com/product/1274,Bestseller,VogueLift,₹3578,₹6562,45%,4.6,3512,6562,45%,3532,Synthetic,5-7 days,Accessories,Slow
+https://www.example.com/product/1096,NEW,Flexura,₹3253,₹4519,28%,3.7,3086,4519,28%,3184,Linen,5-7 days,Handbags,Slow
+https://www.example.com/product/1314,TRENDING,DenimCraft,₹388,₹2770,85%,3.8,303,2770,85%,295,Linen,4-5 days,Ethnicwear,Fast
+https://www.example.com/product/1400,BESTSELLER,DenimCraft,₹2337,₹4116,43%,3.7,2265,4116,43%,2280,Denim,2-3 days,Handbags,Slow
+https://www.example.com/product/1098,NEW,UrbanEdge,₹3948,₹4395,10%,2.8,3863,4395,10%,3876,Synthetic,1-2 weeks,Jeans,Fast
+https://www.example.com/product/1240,BESTSELLER,Luxora,₹2804,₹4550,38%,2.0,2732,4550,38%,2775,Cotton,5-7 days,Accessories,Slow
+https://www.example.com/product/1404,BESTSELLER,TruStep,₹516,₹923,44%,1.9,419,923,44%,454,Silk,4-5 days,Jackets,Moderate
+https://www.example.com/product/1058,Limited Edition,DenimCraft,₹1161,₹1388,16%,4.0,1036,1388,16%,1135,Cotton,1-2 weeks,Shirts,Fast
+https://www.example.com/product/1047,Limited Edition,VogueLift,₹4088,₹5273,22%,1.6,4003,5273,22%,4053,Polyester,5-7 days,Sportswear,Moderate
+https://www.example.com/product/1467,TRENDING,NeoThreads,₹2871,₹3771,23%,4.7,2693,3771,23%,2807,Synthetic,1-2 weeks,Handbags,Moderate
+https://www.ajio.com/kuchipoo-boys-pack-of-5-graphic-print-relaxed-fit-round-neck-t-shirts/p/700232188_multi?,BESTSELLER,Kuchipoo,₹437,₹1899,77%,1.3,2928,3953,64% Off,3030,Cotton,5-7 days,Footwear,Slow
+https://www.example.com/product/1219,Bestseller,NeoThreads,₹322,₹1859,82%,3.6,217,1859,82%,277,Synthetic,1-2 weeks,Footwear,Moderate
+https://www.example.com/product/1355,BESTSELLER,TruStep,₹4626,₹5496,15%,4.6,4458,5496,15%,4564,Leather,1-2 weeks,Jackets,Moderate
+https://www.ajio.com/eyebogler-logo-print-polo-t-shirt/p/466308495_olive?,Bestseller,EYEBOGLER,₹275,₹2499,89%,4.6,5840,7787,25% Off,5832,Silk,2-3 days,Clothing,Moderate
+https://www.example.com/product/1293,NEW,Luxora,₹1715,₹4668,63%,1.8,1650,4668,63%,1641,Leather,2-3 days,Shirts,Slow
+https://www.example.com/product/1303,NEW,DenimCraft,₹4386,₹7235,39%,2.7,4329,7235,39%,4352,Denim,4-5 days,Accessories,Slow
+https://www.example.com/product/1028,TRENDING,Luxora,₹3344,₹6247,46%,3.2,3224,6247,46%,3259,Denim,2-3 days,Footwear,Slow
+https://www.example.com/product/1199,Limited Edition,Flexura,₹391,₹2933,86%,1.3,201,2933,86%,344,Linen,4-5 days,Jeans,Slow
+https://www.example.com/product/1252,NEW,ZyraWear,₹2687,₹4748,43%,1.8,2514,4748,43%,2640,Synthetic,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1456,Bestseller,StrideMax,₹2062,₹4180,50%,4.6,1863,4180,50%,2011,Linen,4-5 days,Jackets,Fast
+https://www.example.com/product/1192,TRENDING,VogueLift,₹3121,₹4604,32%,1.3,3000,4604,32%,3092,Polyester,2-3 days,Dresses,Slow
+https://www.example.com/product/1418,TRENDING,Flexura,₹4814,₹7594,36%,2.8,4735,7594,36%,4756,Denim,2-3 days,Jeans,Moderate
+https://www.example.com/product/1393,Bestseller,UrbanEdge,₹1497,₹4351,65%,2.3,1395,4351,65%,1414,Denim,2-3 days,T-Shirts,Moderate
+https://www.example.com/product/1347,Bestseller,VogueLift,₹3360,₹5504,38%,3.2,3302,5504,38%,3296,Leather,2-3 days,Footwear,Moderate
+https://www.ajio.com/ftx-pack-of-3-men-track-pants/p/701579634_multi?,Bestseller,FTX,₹499,₹1385,64%,3.4,1918,3688,48% Off,1551,Plastic,1-2 weeks,Clothing,Fast
+https://www.example.com/product/1201,Bestseller,NeoThreads,₹1079,₹2201,50%,2.6,901,2201,50%,994,Denim,5-7 days,T-Shirts,Moderate
+https://www.example.com/product/1152,Limited Edition,NeoThreads,₹4636,₹5160,10%,4.5,4486,5160,10%,4583,Silk,2-3 days,Jeans,Moderate
+https://www.example.com/product/1406,NEW,TruStep,₹1143,₹3611,68%,4.6,1037,3611,68%,1071,Cotton,2-3 days,Jackets,Moderate
+https://www.example.com/product/1126,TRENDING,StrideMax,₹3731,₹6441,42%,4.2,3641,6441,42%,3641,Denim,1-2 weeks,Accessories,Moderate
+https://www.example.com/product/1014,TRENDING,TruStep,₹2725,₹5480,50%,2.6,2632,5480,50%,2657,Silk,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1374,Limited Edition,TruStep,₹3174,₹4153,23%,2.3,3105,4153,23%,3082,Silk,5-7 days,Dresses,Slow
+https://www.example.com/product/1247,NEW,AeroStyle,₹2001,₹3172,36%,4.2,1816,3172,36%,1940,Leather,2-3 days,Accessories,Slow
+https://www.example.com/product/1249,TRENDING,DenimCraft,₹829,₹3073,73%,4.5,700,3073,73%,785,Leather,2-3 days,Ethnicwear,Moderate
+https://www.example.com/product/1448,BESTSELLER,Flexura,₹3724,₹4820,22%,3.6,3560,4820,22%,3686,Polyester,2-3 days,Handbags,Slow
+https://www.example.com/product/1197,NEW,StrideMax,₹3480,₹5160,32%,2.2,3283,5160,32%,3428,Leather,1-2 weeks,Footwear,Fast
+https://www.example.com/product/1284,TRENDING,StrideMax,₹2715,₹5544,51%,3.4,2558,5544,51%,2663,Linen,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1387,NEW,Flexura,₹4014,₹5754,30%,3.3,3839,5754,30%,3948,Synthetic,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1380,Limited Edition,AeroStyle,₹3636,₹5195,30%,2.9,3554,5195,30%,3587,Silk,5-7 days,Accessories,Moderate
+https://www.example.com/product/1295,NEW,NeoThreads,₹2498,₹5354,53%,3.2,2302,5354,53%,2413,Polyester,1-2 weeks,Sportswear,Fast
+https://www.ajio.com/gulmohar-jaipur-jaipur-cotton-calf-length-anarkali-kurta-set/p/701585855_mustard?,Bestseller,GULMOHAR JAIPUR,₹1397,₹3599,61%,2.2,1222,5092,76% Off,819,Plastic,2-3 days,Clothing,Fast
+https://www.example.com/product/1297,NEW,TruStep,₹1115,₹3289,66%,2.9,1047,3289,66%,1095,Denim,5-7 days,Shirts,Fast
+https://www.example.com/product/1018,BESTSELLER,VogueLift,₹1105,₹2626,57%,1.4,972,2626,57%,1019,Nylon,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1003,BESTSELLER,StrideMax,₹1500,₹1700,11%,2.6,1429,1700,11%,1437,Linen,2-3 days,Jackets,Moderate
+https://www.example.com/product/1085,Limited Edition,UrbanEdge,₹696,₹1360,48%,2.1,640,1360,48%,658,Synthetic,1-2 weeks,Jeans,Moderate
+https://www.example.com/product/1306,NEW,ZyraWear,₹3679,₹6175,40%,5.0,3555,6175,40%,3644,Polyester,2-3 days,Footwear,Fast
+https://www.example.com/product/1246,Bestseller,NeoThreads,₹4941,₹7859,37%,3.4,4803,7859,37%,4906,Denim,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1376,Bestseller,Luxora,₹2528,₹2815,10%,4.0,2409,2815,10%,2487,Linen,4-5 days,Jackets,Slow
+https://www.example.com/product/1029,TRENDING,StrideMax,₹4387,₹4765,7%,3.2,4287,4765,7%,4321,Cotton,2-3 days,Shirts,Fast
+https://www.example.com/product/1227,Bestseller,UrbanEdge,₹4209,₹4697,10%,3.5,4138,4697,10%,4166,Linen,2-3 days,Handbags,Fast
+https://www.ajio.com/the-indian-garage-co-striped-slim-fit-shirt-with-patch-pocket/p/469194738_blue?,Bestseller,The Indian Garage Co,₹490,₹1749,72%,1.0,3236,7704,58% Off,2955,Silk,5-7 days,Footwear,Slow
+https://www.ajio.com/red-tape-men-chelsea-boots-with-genuine-leather-upper/p/701895104_brown?,BESTSELLER,RED TAPE,₹1632,₹9599,83%,2.9,3243,5316,39% Off,2932,Cotton,1-2 weeks,Clothing,Slow
+https://www.example.com/product/1144,NEW,VogueLift,₹1670,₹3804,56%,2.9,1478,3804,56%,1602,Silk,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1038,Limited Edition,Luxora,₹4922,₹5812,15%,1.9,4814,5812,15%,4896,Denim,2-3 days,Jeans,Moderate
+https://www.example.com/product/1375,NEW,AeroStyle,₹886,₹2546,65%,3.6,716,2546,65%,793,Synthetic,5-7 days,Shirts,Fast
+https://www.example.com/product/1384,BESTSELLER,Flexura,₹2842,₹5638,49%,3.6,2655,5638,49%,2776,Cotton,2-3 days,Jeans,Slow
+https://www.example.com/product/1066,TRENDING,StrideMax,₹1183,₹3855,69%,3.1,1084,3855,69%,1111,Nylon,5-7 days,Jeans,Slow
+https://www.example.com/product/1120,BESTSELLER,VogueLift,₹4033,₹6718,39%,4.0,3870,6718,39%,3954,Nylon,4-5 days,Jeans,Moderate
+https://www.example.com/product/1441,Limited Edition,AeroStyle,₹4936,₹6803,27%,3.1,4753,6803,27%,4897,Leather,2-3 days,Jeans,Moderate
+https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/464176063_blue?,BESTSELLER,THE BEAR HOUSE,₹798,₹2495,68%,3.8,575,787,27% Off,331,Silk,5-7 days,Footwear,Slow
+https://www.example.com/product/1206,BESTSELLER,ZyraWear,₹461,₹2341,80%,1.9,331,2341,80%,394,Cotton,2-3 days,Footwear,Slow
+https://www.example.com/product/1343,BESTSELLER,NeoThreads,₹4011,₹5224,23%,3.3,3858,5224,23%,3943,Leather,4-5 days,Ethnicwear,Fast
+https://www.example.com/product/1165,NEW,StrideMax,₹4702,₹6670,29%,4.3,4552,6670,29%,4664,Denim,5-7 days,Footwear,Moderate
+https://www.ajio.com/u-s-polo-assn-men-checked-tailored-fit-shirt-with-patch-pocket/p/442400884_white?,Bestseller,U.S. Polo Assn.,₹1913,₹2899,34%,3.9,4201,4037,6% Off,4551,Synthetic,5-7 days,Footwear,Moderate
+https://www.example.com/product/1088,Bestseller,ZyraWear,₹2696,₹3124,13%,1.1,2561,3124,13%,2666,Leather,5-7 days,Jackets,Slow
+https://www.example.com/product/1017,Bestseller,NeoThreads,₹839,₹2937,71%,1.9,752,2937,71%,767,Synthetic,2-3 days,Ethnicwear,Slow
+https://www.ajio.com/the-indian-garage-co-men-mid-wash-slim-fit-jeans/p/460619249_black?,BESTSELLER,The Indian Garage Co,₹680,₹1999,66%,2.7,4695,5790,56% Off,3241,Cotton,4-5 days,Footwear,Fast
+https://www.example.com/product/1437,TRENDING,VogueLift,₹4831,₹5208,7%,4.3,4687,5208,7%,4787,Synthetic,1-2 weeks,Accessories,Slow
+https://www.example.com/product/1327,TRENDING,VogueLift,₹2778,₹4946,43%,3.3,2685,4946,43%,2750,Denim,5-7 days,Sportswear,Slow
+https://www.ajio.com/u-s-polo-assn-men-brand-embossed-slim-fit-polo-t-shirt/p/442401081_white?,Bestseller,U.S. Polo Assn.,₹1624,₹2499,35%,2.5,2428,651,9% Off,1126,Synthetic,5-7 days,Footwear,Fast
+https://www.example.com/product/1370,Bestseller,UrbanEdge,₹4712,₹5034,6%,4.5,4519,5034,6%,4639,Silk,1-2 weeks,Accessories,Slow
+https://www.example.com/product/1360,Bestseller,AeroStyle,₹3019,₹3409,11%,1.8,2950,3409,11%,2997,Synthetic,4-5 days,Jackets,Slow
+https://www.example.com/product/1032,Bestseller,Flexura,₹4267,₹4963,14%,2.2,4106,4963,14%,4205,Cotton,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1082,Bestseller,ZyraWear,₹1257,₹2315,45%,1.2,1190,2315,45%,1180,Leather,5-7 days,Jeans,Fast
+https://www.example.com/product/1289,Limited Edition,AeroStyle,₹337,₹3106,89%,1.7,177,3106,89%,260,Linen,2-3 days,Accessories,Fast
+https://www.example.com/product/1234,Bestseller,DenimCraft,₹1469,₹1949,24%,4.5,1298,1949,24%,1387,Synthetic,5-7 days,Accessories,Fast
+https://www.example.com/product/1001,TRENDING,ZyraWear,₹4830,₹7475,35%,2.9,4780,7475,35%,4786,Denim,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1266,Limited Edition,StrideMax,₹1247,₹3083,59%,4.4,1101,3083,59%,1176,Nylon,2-3 days,Jackets,Fast
+https://www.example.com/product/1157,NEW,VogueLift,₹1269,₹3638,65%,1.4,1090,3638,65%,1179,Linen,2-3 days,Accessories,Fast
+https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/701087906_white?,Bestseller,RED TAPE,₹1173,₹6899,83%,1.3,1226,1679,27% Off,1054,Cotton,1-2 weeks,Clothing,Fast
+https://www.ajio.com/lakme-xtraordin-airy-mattereal-mousse-foundation-matte-finish-has-spf8--05-beige-honey/p/4915605340_beige?,BESTSELLER,LAKME,₹330,₹999,67%,1.0,1221,3912,45% Off,747,Cotton,4-5 days,Footwear,Slow
+https://www.example.com/product/1422,Bestseller,DenimCraft,₹855,₹2401,64%,2.8,801,2401,64%,783,Silk,5-7 days,T-Shirts,Slow
+https://www.example.com/product/1080,Bestseller,VogueLift,₹2001,₹3074,34%,4.4,1812,3074,34%,1981,Silk,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1009,Limited Edition,ZyraWear,₹2515,₹4495,44%,4.8,2323,4495,44%,2421,Denim,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1129,TRENDING,VogueLift,₹1447,₹2474,41%,1.9,1280,2474,41%,1364,Nylon,5-7 days,Ethnicwear,Slow
+https://www.example.com/product/1435,TRENDING,VogueLift,₹3034,₹3624,16%,4.3,2889,3624,16%,2979,Leather,1-2 weeks,Handbags,Moderate
+https://www.example.com/product/1090,Limited Edition,VogueLift,₹1794,₹2837,36%,3.6,1744,2837,36%,1761,Leather,1-2 weeks,Sportswear,Fast
+https://www.example.com/product/1086,TRENDING,StrideMax,₹1154,₹3859,70%,2.6,1039,3859,70%,1111,Denim,2-3 days,Jeans,Fast
+https://www.example.com/product/1153,Bestseller,NeoThreads,₹2007,₹2963,32%,2.4,1930,2963,32%,1962,Linen,4-5 days,Handbags,Fast
+https://www.example.com/product/1148,Bestseller,AeroStyle,₹1752,₹2204,20%,2.6,1632,2204,20%,1702,Synthetic,4-5 days,Ethnicwear,Slow
+https://www.example.com/product/1116,NEW,UrbanEdge,₹1946,₹3384,42%,4.2,1753,3384,42%,1924,Nylon,5-7 days,Accessories,Slow
+https://www.example.com/product/1339,NEW,VogueLift,₹3954,₹5655,30%,4.4,3884,5655,30%,3905,Silk,2-3 days,Footwear,Fast
+https://www.example.com/product/1349,Limited Edition,UrbanEdge,₹3193,₹3488,8%,2.2,3129,3488,8%,3147,Synthetic,5-7 days,Accessories,Moderate
+https://www.example.com/product/1283,TRENDING,DenimCraft,₹2568,₹4607,44%,4.8,2416,4607,44%,2479,Cotton,2-3 days,T-Shirts,Fast
+https://www.example.com/product/1180,NEW,UrbanEdge,₹4454,₹6019,26%,3.5,4391,6019,26%,4390,Polyester,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1183,NEW,Luxora,₹3958,₹4513,12%,2.9,3799,4513,12%,3859,Silk,2-3 days,Footwear,Moderate
+https://www.example.com/product/1414,BESTSELLER,ZyraWear,₹4344,₹4635,6%,4.8,4263,4635,6%,4276,Nylon,1-2 weeks,Jeans,Moderate
+https://www.example.com/product/1113,TRENDING,VogueLift,₹960,₹3608,73%,2.2,809,3608,73%,910,Nylon,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1421,NEW,TruStep,₹2972,₹4968,40%,2.5,2850,4968,40%,2927,Cotton,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1039,NEW,NeoThreads,₹2209,₹3835,42%,4.1,2096,3835,42%,2158,Cotton,2-3 days,Sportswear,Slow
+https://www.example.com/product/1176,TRENDING,NeoThreads,₹3657,₹5128,28%,4.4,3564,5128,28%,3617,Synthetic,1-2 weeks,Accessories,Slow
+https://www.example.com/product/1140,BESTSELLER,Luxora,₹1003,₹2006,50%,3.2,883,2006,50%,972,Linen,5-7 days,Ethnicwear,Slow
+https://www.example.com/product/1345,Bestseller,NeoThreads,₹4482,₹5084,11%,2.3,4339,5084,11%,4401,Synthetic,5-7 days,Handbags,Slow
+https://www.example.com/product/1318,Limited Edition,UrbanEdge,₹4272,₹6496,34%,4.9,4217,6496,34%,4173,Leather,1-2 weeks,T-Shirts,Moderate
+https://www.example.com/product/1312,NEW,Luxora,₹2361,₹3252,27%,3.0,2269,3252,27%,2266,Silk,1-2 weeks,T-Shirts,Slow
+https://www.example.com/product/1081,BESTSELLER,StrideMax,₹2627,₹3936,33%,2.4,2487,3936,33%,2567,Leather,4-5 days,Jackets,Fast
+https://www.example.com/product/1413,TRENDING,NeoThreads,₹3542,₹6346,44%,2.7,3368,6346,44%,3462,Synthetic,5-7 days,Footwear,Fast
+https://www.example.com/product/1117,NEW,VogueLift,₹2039,₹3980,48%,1.5,1957,3980,48%,1961,Cotton,2-3 days,Accessories,Moderate
+https://www.example.com/product/1064,NEW,AeroStyle,₹2810,₹3572,21%,1.1,2754,3572,21%,2754,Linen,5-7 days,T-Shirts,Slow
+https://www.example.com/product/1124,Limited Edition,DenimCraft,₹2446,₹2953,17%,2.9,2298,2953,17%,2394,Cotton,5-7 days,Accessories,Moderate
+https://www.example.com/product/1328,Bestseller,TruStep,₹1193,₹3550,66%,1.4,1068,3550,66%,1101,Synthetic,4-5 days,Shirts,Moderate
+https://www.example.com/product/1364,Bestseller,Flexura,₹1916,₹2761,30%,3.2,1825,2761,30%,1880,Silk,2-3 days,Ethnicwear,Moderate
+https://www.example.com/product/1055,NEW,Luxora,₹2633,₹3993,34%,1.6,2540,3993,34%,2545,Denim,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1405,NEW,ZyraWear,₹2251,₹4008,43%,4.3,2177,4008,43%,2211,Silk,5-7 days,Jackets,Moderate
+https://www.example.com/product/1137,Limited Edition,VogueLift,₹621,₹3078,79%,2.3,484,3078,79%,547,Linen,2-3 days,Jackets,Slow
+https://www.example.com/product/1263,Bestseller,StrideMax,₹3475,₹5508,36%,4.0,3277,5508,36%,3454,Cotton,4-5 days,Shirts,Moderate
+https://www.example.com/product/1171,BESTSELLER,VogueLift,₹3413,₹5345,36%,3.6,3214,5345,36%,3315,Cotton,5-7 days,Dresses,Slow
+https://www.example.com/product/1194,Bestseller,ZyraWear,₹2624,₹3547,26%,4.2,2498,3547,26%,2586,Synthetic,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1046,Bestseller,AeroStyle,₹4040,₹6816,40%,4.1,3982,6816,40%,4014,Silk,2-3 days,Jackets,Slow
+https://www.example.com/product/1279,Bestseller,UrbanEdge,₹1546,₹2164,28%,1.6,1396,2164,28%,1499,Polyester,5-7 days,Accessories,Slow
+https://www.example.com/product/1182,BESTSELLER,NeoThreads,₹1780,₹4721,62%,4.2,1700,4721,62%,1706,Synthetic,1-2 weeks,Shirts,Slow
+https://www.example.com/product/1216,Bestseller,StrideMax,₹1218,₹2717,55%,3.8,1124,2717,55%,1122,Nylon,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1091,NEW,AeroStyle,₹4309,₹6527,33%,3.5,4127,6527,33%,4244,Denim,1-2 weeks,T-Shirts,Moderate
+https://www.example.com/product/1253,TRENDING,TruStep,₹4906,₹7860,37%,4.4,4826,7860,37%,4809,Nylon,5-7 days,Shirts,Moderate
+https://www.example.com/product/1270,NEW,Flexura,₹1465,₹2999,51%,2.1,1398,2999,51%,1376,Linen,2-3 days,Shirts,Moderate
+https://www.example.com/product/1221,Limited Edition,Luxora,₹964,₹1584,39%,2.0,900,1584,39%,913,Silk,5-7 days,Shirts,Slow
+https://www.example.com/product/1324,NEW,DenimCraft,₹3626,₹5714,36%,2.5,3471,5714,36%,3606,Silk,5-7 days,Accessories,Moderate
+https://www.example.com/product/1369,Bestseller,UrbanEdge,₹2721,₹3103,12%,3.1,2655,3103,12%,2678,Polyester,4-5 days,Shirts,Slow
+https://www.example.com/product/1307,Bestseller,NeoThreads,₹1726,₹4507,61%,3.3,1530,4507,61%,1678,Leather,1-2 weeks,Shirts,Slow
+https://www.example.com/product/1222,BESTSELLER,Flexura,₹555,₹1090,49%,3.6,392,1090,49%,506,Denim,1-2 weeks,Sportswear,Fast
+https://www.example.com/product/1200,BESTSELLER,StrideMax,₹794,₹1967,59%,2.6,691,1967,59%,737,Linen,4-5 days,Dresses,Slow
+https://www.example.com/product/1352,BESTSELLER,StrideMax,₹2054,₹3962,48%,4.1,1966,3962,48%,1956,Nylon,2-3 days,Handbags,Moderate
+https://www.example.com/product/1411,Bestseller,UrbanEdge,₹2004,₹4521,55%,3.7,1841,4521,55%,1943,Denim,5-7 days,Sportswear,Fast
+https://www.example.com/product/1008,TRENDING,ZyraWear,₹350,₹2512,86%,4.3,193,2512,86%,289,Leather,5-7 days,Accessories,Slow
+https://www.example.com/product/1168,Bestseller,Luxora,₹4843,₹6738,28%,4.1,4646,6738,28%,4752,Silk,4-5 days,Ethnicwear,Moderate
+https://www.example.com/product/1111,NEW,UrbanEdge,₹3838,₹6696,42%,1.8,3665,6696,42%,3794,Cotton,2-3 days,Accessories,Fast
+https://www.example.com/product/1334,NEW,NeoThreads,₹2246,₹2685,16%,3.5,2068,2685,16%,2162,Cotton,4-5 days,Jackets,Slow
+https://www.example.com/product/1210,BESTSELLER,StrideMax,₹3622,₹3857,6%,1.1,3462,3857,6%,3572,Synthetic,4-5 days,Handbags,Moderate
+https://www.example.com/product/1256,NEW,DenimCraft,₹2686,₹4377,38%,2.8,2590,4377,38%,2617,Leather,2-3 days,Jeans,Fast
+https://www.example.com/product/1286,NEW,ZyraWear,₹2326,₹5171,55%,4.0,2192,5171,55%,2255,Linen,4-5 days,Footwear,Moderate
+https://www.example.com/product/1031,Limited Edition,UrbanEdge,₹2481,₹3418,27%,4.2,2315,3418,27%,2420,Polyester,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1083,Bestseller,NeoThreads,₹1878,₹4809,60%,3.5,1813,4809,60%,1854,Nylon,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1434,Bestseller,ZyraWear,₹3161,₹4389,27%,3.6,3046,4389,27%,3133,Polyester,4-5 days,Jeans,Moderate
+https://www.example.com/product/1398,Bestseller,VogueLift,₹2427,₹2847,14%,2.9,2249,2847,14%,2350,Nylon,4-5 days,Jeans,Slow
+https://www.ajio.com/the-indian-garage-co-men-lightly-washed-slim-fit-jeans/p/460619260_grey?,Bestseller,The Indian Garage Co,₹620,₹1999,69%,3.7,3808,839,84% Off,4341,Cotton,4-5 days,Footwear,Moderate
+https://www.example.com/product/1330,BESTSELLER,DenimCraft,₹1177,₹2529,53%,3.5,980,2529,53%,1132,Silk,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1354,NEW,DenimCraft,₹3449,₹3699,6%,1.3,3310,3699,6%,3360,Nylon,5-7 days,Handbags,Moderate
+https://www.example.com/product/1367,Bestseller,TruStep,₹1284,₹1877,31%,4.9,1121,1877,31%,1244,Nylon,5-7 days,Jackets,Moderate
+https://www.example.com/product/1130,Bestseller,TruStep,₹1679,₹1895,11%,1.7,1521,1895,11%,1586,Leather,5-7 days,Shirts,Fast
+https://www.example.com/product/1122,NEW,NeoThreads,₹1010,₹2147,52%,2.8,850,2147,52%,972,Polyester,2-3 days,Jackets,Fast
+https://www.example.com/product/1149,NEW,DenimCraft,₹3519,₹3823,7%,4.0,3465,3823,7%,3478,Denim,5-7 days,Footwear,Fast
+https://www.example.com/product/1363,TRENDING,StrideMax,₹4505,₹5023,10%,2.6,4365,5023,10%,4448,Linen,2-3 days,T-Shirts,Slow
+https://www.example.com/product/1156,BESTSELLER,VogueLift,₹3927,₹5642,30%,2.9,3823,5642,30%,3836,Denim,5-7 days,Footwear,Slow
+https://www.example.com/product/1444,NEW,UrbanEdge,₹2173,₹3215,32%,2.3,2050,3215,32%,2084,Polyester,4-5 days,Accessories,Fast
+https://www.ajio.com/u-s-polo-assn-men-checked-regular-fit-shirt/p/442400931_blue?,Bestseller,U.S. Polo Assn.,₹1727,₹2699,36%,4.4,2136,5611,22% Off,572,Synthetic,5-7 days,Footwear,Slow
+https://www.example.com/product/1350,Bestseller,VogueLift,₹4617,₹6534,29%,1.9,4552,6534,29%,4551,Synthetic,1-2 weeks,Dresses,Fast
+https://www.example.com/product/1075,BESTSELLER,ZyraWear,₹2511,₹5126,51%,3.1,2376,5126,51%,2459,Linen,4-5 days,Footwear,Fast
+https://www.example.com/product/1053,NEW,ZyraWear,₹4059,₹5552,26%,1.0,3882,5552,26%,3969,Leather,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1010,BESTSELLER,AeroStyle,₹1410,₹2920,51%,3.0,1246,2920,51%,1374,Linen,1-2 weeks,Handbags,Fast
+https://www.example.com/product/1436,NEW,TruStep,₹1714,₹2655,35%,1.2,1632,2655,35%,1634,Cotton,1-2 weeks,Accessories,Slow
+https://www.example.com/product/1139,Limited Edition,ZyraWear,₹1367,₹2716,49%,3.9,1277,2716,49%,1283,Linen,2-3 days,Jeans,Fast
+https://www.example.com/product/1458,NEW,VogueLift,₹469,₹2267,79%,3.5,388,2267,79%,418,Silk,4-5 days,Jackets,Moderate
+https://www.example.com/product/1371,Bestseller,UrbanEdge,₹1672,₹3370,50%,1.4,1556,3370,50%,1577,Linen,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1392,Bestseller,StrideMax,₹4861,₹6400,24%,4.3,4765,6400,24%,4833,Nylon,2-3 days,T-Shirts,Fast
+https://www.example.com/product/1170,NEW,ZyraWear,₹2932,₹3720,21%,3.3,2763,3720,21%,2871,Synthetic,5-7 days,Footwear,Moderate
+https://www.example.com/product/1268,Bestseller,NeoThreads,₹1090,₹2770,60%,2.1,939,2770,60%,991,Leather,5-7 days,Dresses,Fast
+https://www.example.com/product/1446,Limited Edition,UrbanEdge,₹2819,₹3920,28%,4.6,2692,3920,28%,2789,Synthetic,5-7 days,Footwear,Moderate
+https://www.example.com/product/1225,Bestseller,TruStep,₹464,₹3103,85%,2.6,304,3103,85%,376,Nylon,2-3 days,Footwear,Moderate
+https://www.example.com/product/1166,TRENDING,TruStep,₹3983,₹5871,32%,3.6,3821,5871,32%,3888,Cotton,1-2 weeks,Jackets,Slow
+https://www.example.com/product/1061,TRENDING,NeoThreads,₹3041,₹4851,37%,3.8,2906,4851,37%,2952,Cotton,1-2 weeks,Jeans,Slow
+https://www.example.com/product/1118,NEW,StrideMax,₹4989,₹7186,30%,3.7,4831,7186,30%,4896,Silk,4-5 days,Dresses,Fast
+https://www.example.com/product/1135,NEW,TruStep,₹4856,₹6208,21%,3.9,4793,6208,21%,4784,Nylon,2-3 days,Jeans,Slow
+https://www.example.com/product/1386,TRENDING,TruStep,₹1224,₹2636,53%,2.6,1171,2636,53%,1175,Polyester,5-7 days,Sportswear,Fast
+https://www.example.com/product/1362,Limited Edition,Luxora,₹645,₹1702,62%,4.8,576,1702,62%,609,Polyester,1-2 weeks,T-Shirts,Fast
+https://www.example.com/product/1119,Limited Edition,AeroStyle,₹2030,₹3324,38%,2.8,1918,3324,38%,1968,Cotton,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1277,BESTSELLER,Flexura,₹4649,₹5693,18%,2.1,4549,5693,18%,4573,Leather,1-2 weeks,Handbags,Fast
+https://www.example.com/product/1258,Bestseller,DenimCraft,₹3298,₹3907,15%,2.1,3246,3907,15%,3277,Cotton,2-3 days,Shirts,Fast
+https://www.example.com/product/1095,Limited Edition,VogueLift,₹1497,₹3924,61%,2.3,1342,3924,61%,1445,Denim,1-2 weeks,Accessories,Moderate
+https://www.example.com/product/1366,BESTSELLER,DenimCraft,₹4433,₹6512,31%,4.9,4274,6512,31%,4370,Polyester,1-2 weeks,Ethnicwear,Slow
+https://www.example.com/product/1068,BESTSELLER,VogueLift,₹2070,₹4083,49%,3.5,1872,4083,49%,2012,Silk,2-3 days,Jeans,Slow
+https://www.example.com/product/1115,NEW,Luxora,₹2345,₹4967,52%,1.7,2238,4967,52%,2293,Polyester,1-2 weeks,Jackets,Slow
+https://www.example.com/product/1211,Bestseller,Flexura,₹3719,₹6067,38%,1.8,3648,6067,38%,3629,Cotton,1-2 weeks,Ethnicwear,Moderate
+https://www.example.com/product/1244,NEW,Luxora,₹1639,₹3669,55%,1.2,1479,3669,55%,1580,Polyester,4-5 days,Jeans,Fast
+https://www.example.com/product/1069,Bestseller,VogueLift,₹3832,₹5919,35%,2.0,3637,5919,35%,3783,Polyester,1-2 weeks,Footwear,Fast
+https://www.example.com/product/1466,Bestseller,DenimCraft,₹4174,₹4504,7%,3.6,4106,4504,7%,4121,Nylon,2-3 days,Accessories,Slow
+https://www.example.com/product/1094,Bestseller,Flexura,₹1958,₹4492,56%,3.6,1829,4492,56%,1869,Synthetic,2-3 days,Footwear,Slow
+https://www.example.com/product/1155,BESTSELLER,AeroStyle,₹1499,₹2217,32%,2.1,1448,2217,32%,1467,Polyester,4-5 days,Ethnicwear,Fast
+https://www.example.com/product/1174,BESTSELLER,UrbanEdge,₹4618,₹7329,36%,1.6,4481,7329,36%,4538,Denim,2-3 days,T-Shirts,Moderate
+https://www.example.com/product/1218,TRENDING,ZyraWear,₹821,₹2762,70%,4.0,705,2762,70%,795,Nylon,5-7 days,T-Shirts,Moderate
+https://www.example.com/product/1276,NEW,StrideMax,₹3352,₹5592,40%,1.4,3274,5592,40%,3277,Denim,2-3 days,Sportswear,Slow
+https://www.example.com/product/1269,TRENDING,DenimCraft,₹2738,₹4767,42%,1.1,2653,4767,42%,2665,Synthetic,2-3 days,Handbags,Moderate
+https://www.example.com/product/1321,Bestseller,NeoThreads,₹4352,₹6230,30%,4.5,4273,6230,30%,4326,Silk,4-5 days,Jeans,Slow
+https://www.example.com/product/1271,TRENDING,NeoThreads,₹3987,₹6591,39%,3.2,3855,6591,39%,3940,Denim,5-7 days,Dresses,Moderate
+https://www.example.com/product/1365,Bestseller,DenimCraft,₹4656,₹6945,32%,3.0,4457,6945,32%,4624,Nylon,4-5 days,Jeans,Fast
+https://www.example.com/product/1290,TRENDING,NeoThreads,₹2134,₹3148,32%,2.4,2006,3148,32%,2098,Cotton,1-2 weeks,T-Shirts,Moderate
+https://www.example.com/product/1097,TRENDING,Flexura,₹3167,₹5949,46%,1.5,3100,5949,46%,3126,Polyester,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1273,Bestseller,StrideMax,₹4192,₹6656,37%,2.3,4071,6656,37%,4125,Synthetic,5-7 days,Footwear,Moderate
+https://www.example.com/product/1195,Bestseller,VogueLift,₹4816,₹6145,21%,2.1,4656,6145,21%,4768,Leather,5-7 days,Jackets,Moderate
+https://www.example.com/product/1388,BESTSELLER,TruStep,₹4354,₹4590,5%,3.7,4284,4590,5%,4321,Nylon,2-3 days,Shirts,Fast
+https://www.example.com/product/1191,BESTSELLER,AeroStyle,₹3660,₹4327,15%,4.7,3586,4327,15%,3634,Synthetic,2-3 days,Accessories,Moderate
+https://www.example.com/product/1101,NEW,NeoThreads,₹2614,₹4786,45%,3.9,2463,4786,45%,2585,Denim,1-2 weeks,T-Shirts,Slow
+https://www.example.com/product/1390,NEW,Luxora,₹2129,₹5112,58%,3.1,1940,5112,58%,2034,Leather,1-2 weeks,Shirts,Fast
+https://www.example.com/product/1453,TRENDING,TruStep,₹4523,₹6742,32%,2.9,4366,6742,32%,4430,Polyester,4-5 days,Jeans,Moderate
+https://www.example.com/product/1337,Limited Edition,StrideMax,₹3401,₹4250,19%,3.0,3254,4250,19%,3337,Leather,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1346,BESTSELLER,NeoThreads,₹817,₹2780,70%,2.7,695,2780,70%,728,Polyester,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1262,Bestseller,Flexura,₹4075,₹4400,7%,3.2,4015,4400,7%,4022,Nylon,5-7 days,Jeans,Fast
+https://www.example.com/product/1325,TRENDING,DenimCraft,₹2217,₹4561,51%,3.1,2046,4561,51%,2134,Nylon,5-7 days,Dresses,Slow
+https://www.example.com/product/1443,Limited Edition,DenimCraft,₹515,₹1122,54%,4.6,415,1122,54%,489,Linen,2-3 days,Dresses,Fast
+https://www.example.com/product/1336,NEW,NeoThreads,₹1317,₹2338,43%,2.2,1163,2338,43%,1249,Cotton,5-7 days,Sportswear,Moderate
+https://www.example.com/product/1401,BESTSELLER,VogueLift,₹3621,₹3834,5%,4.7,3509,3834,5%,3586,Synthetic,4-5 days,Footwear,Slow
+https://www.example.com/product/1084,TRENDING,StrideMax,₹3008,₹5440,44%,3.3,2896,5440,44%,2922,Denim,5-7 days,Jeans,Moderate
+https://www.example.com/product/1151,NEW,NeoThreads,₹2024,₹2775,27%,4.6,1903,2775,27%,1947,Nylon,4-5 days,Jackets,Moderate
+https://www.example.com/product/1416,BESTSELLER,NeoThreads,₹624,₹1917,67%,4.3,551,1917,67%,545,Silk,2-3 days,Ethnicwear,Fast
+https://www.example.com/product/1310,BESTSELLER,NeoThreads,₹2132,₹2953,27%,1.6,1968,2953,27%,2059,Denim,5-7 days,Dresses,Slow
+https://www.example.com/product/1301,NEW,AeroStyle,₹2723,₹4058,32%,2.2,2590,4058,32%,2685,Silk,2-3 days,Accessories,Slow
+https://www.example.com/product/1450,NEW,AeroStyle,₹2068,₹3901,46%,1.4,1898,3901,46%,1974,Silk,1-2 weeks,T-Shirts,Fast
+https://www.example.com/product/1329,Limited Edition,Luxora,₹4810,₹7415,35%,4.1,4671,7415,35%,4743,Cotton,4-5 days,Handbags,Slow
+https://www.example.com/product/1205,Limited Edition,AeroStyle,₹3949,₹5854,32%,4.3,3893,5854,32%,3887,Leather,4-5 days,Shirts,Slow
+https://www.example.com/product/1282,NEW,NeoThreads,₹2056,₹3668,43%,1.8,1897,3668,43%,2030,Synthetic,2-3 days,Shirts,Slow
+https://www.example.com/product/1136,Limited Edition,ZyraWear,₹3743,₹5916,36%,1.4,3636,5916,36%,3686,Nylon,5-7 days,Handbags,Fast
+https://www.example.com/product/1108,TRENDING,Luxora,₹3051,₹4721,35%,1.2,2992,4721,35%,3022,Silk,4-5 days,Ethnicwear,Moderate
+https://www.example.com/product/1169,Limited Edition,Flexura,₹903,₹1555,41%,4.0,831,1555,41%,861,Polyester,5-7 days,T-Shirts,Slow
+https://www.example.com/product/1230,BESTSELLER,VogueLift,₹4152,₹6737,38%,1.1,3967,6737,38%,4109,Leather,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1204,BESTSELLER,Luxora,₹2172,₹3795,42%,2.1,1980,3795,42%,2149,Synthetic,1-2 weeks,T-Shirts,Fast
+https://www.example.com/product/1087,Bestseller,TruStep,₹1671,₹3264,48%,4.1,1556,3264,48%,1573,Leather,1-2 weeks,Shirts,Slow
+https://www.example.com/product/1092,TRENDING,TruStep,₹4201,₹4676,10%,4.2,4041,4676,10%,4180,Linen,4-5 days,Shirts,Moderate
+https://www.example.com/product/1319,Bestseller,Flexura,₹740,₹2494,70%,1.1,658,2494,70%,680,Synthetic,1-2 weeks,Jackets,Moderate
+https://www.example.com/product/1196,Limited Edition,VogueLift,₹4285,₹5804,26%,4.8,4158,5804,26%,4222,Synthetic,2-3 days,Sportswear,Moderate
+https://www.example.com/product/1372,NEW,Flexura,₹2112,₹4549,53%,4.2,2046,4549,53%,2044,Nylon,5-7 days,Sportswear,Moderate
+https://www.example.com/product/1308,NEW,StrideMax,₹3821,₹5222,26%,3.4,3658,5222,26%,3759,Polyester,4-5 days,Shirts,Fast
+https://www.example.com/product/1099,NEW,UrbanEdge,₹1692,₹3275,48%,2.7,1524,3275,48%,1644,Linen,5-7 days,Handbags,Slow
+https://www.example.com/product/1257,Bestseller,UrbanEdge,₹1089,₹3515,69%,4.1,896,3515,69%,1048,Nylon,5-7 days,Footwear,Moderate
+https://www.example.com/product/1381,NEW,Luxora,₹1326,₹2123,37%,5.0,1227,2123,37%,1275,Nylon,4-5 days,Jeans,Moderate
+https://www.example.com/product/1079,Limited Edition,UrbanEdge,₹3756,₹5551,32%,4.2,3641,5551,32%,3667,Nylon,1-2 weeks,Jackets,Fast
+https://www.example.com/product/1340,BESTSELLER,DenimCraft,₹4469,₹7263,38%,2.2,4390,7263,38%,4391,Denim,2-3 days,Sportswear,Moderate
+https://www.example.com/product/1296,Bestseller,NeoThreads,₹3275,₹5203,37%,1.0,3106,5203,37%,3220,Denim,4-5 days,Ethnicwear,Moderate
+https://www.example.com/product/1105,TRENDING,NeoThreads,₹2561,₹5126,50%,1.9,2468,5126,50%,2474,Polyester,5-7 days,Accessories,Moderate
+https://www.example.com/product/1333,Bestseller,StrideMax,₹764,₹2706,71%,2.3,655,2706,71%,703,Linen,2-3 days,Shirts,Slow
+https://www.example.com/product/1016,Bestseller,StrideMax,₹657,₹3443,80%,4.6,600,3443,80%,614,Nylon,1-2 weeks,Handbags,Moderate
+https://www.example.com/product/1429,BESTSELLER,TruStep,₹2845,₹4171,31%,1.3,2700,4171,31%,2753,Polyester,5-7 days,Dresses,Moderate
+https://www.example.com/product/1037,NEW,DenimCraft,₹3575,₹3890,8%,2.4,3466,3890,8%,3527,Cotton,2-3 days,Footwear,Fast
+https://www.example.com/product/1255,NEW,DenimCraft,₹4107,₹6683,38%,1.3,4011,6683,38%,4037,Leather,2-3 days,Handbags,Slow
+https://www.example.com/product/1057,TRENDING,StrideMax,₹4340,₹6085,28%,2.9,4170,6085,28%,4255,Linen,4-5 days,Shirts,Slow
+https://www.example.com/product/1214,TRENDING,ZyraWear,₹1918,₹4726,59%,1.3,1845,4726,59%,1862,Denim,4-5 days,Sportswear,Fast
+https://www.example.com/product/1158,NEW,UrbanEdge,₹631,₹2115,70%,1.9,502,2115,70%,540,Synthetic,2-3 days,Handbags,Fast
+https://www.example.com/product/1353,Bestseller,Luxora,₹3492,₹5403,35%,4.5,3347,5403,35%,3464,Nylon,4-5 days,Sportswear,Fast
+https://www.example.com/product/1131,BESTSELLER,Flexura,₹3089,₹3592,14%,1.8,3035,3592,14%,3050,Denim,2-3 days,Footwear,Slow
+https://www.ajio.com/red-tape-men-high-top-sneakers-with-lace-fastening/p/700353149_white?,BESTSELLER,RED TAPE,₹1139,₹6699,83%,1.6,2628,4233,48% Off,1721,Polyester,4-5 days,Footwear,Slow
+https://www.example.com/product/1007,Bestseller,VogueLift,₹4227,₹5923,28%,2.6,4093,5923,28%,4180,Polyester,4-5 days,Accessories,Fast
+https://www.example.com/product/1000,NEW,Luxora,₹2971,₹3678,19%,3.0,2878,3678,19%,2927,Silk,2-3 days,Ethnicwear,Moderate
+https://www.example.com/product/1142,Limited Edition,AeroStyle,₹1998,₹4309,53%,4.8,1885,4309,53%,1916,Cotton,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1114,NEW,TruStep,₹4261,₹4526,5%,1.3,4085,4526,5%,4184,Silk,5-7 days,Footwear,Fast
+https://www.example.com/product/1368,Bestseller,StrideMax,₹2336,₹2851,18%,2.2,2252,2851,18%,2266,Denim,1-2 weeks,Jeans,Slow
+https://www.example.com/product/1313,Limited Edition,ZyraWear,₹1167,₹1917,39%,4.1,1009,1917,39%,1137,Denim,1-2 weeks,Jackets,Moderate
+https://www.example.com/product/1193,Limited Edition,Flexura,₹3215,₹6007,46%,2.1,3096,6007,46%,3144,Cotton,5-7 days,Ethnicwear,Slow
+https://www.example.com/product/1067,Bestseller,DenimCraft,₹2701,₹3660,26%,3.3,2647,3660,26%,2667,Denim,2-3 days,Footwear,Moderate
+https://www.example.com/product/1023,TRENDING,Flexura,₹2654,₹3227,17%,2.4,2476,3227,17%,2599,Nylon,4-5 days,Sportswear,Moderate
+https://www.example.com/product/1212,NEW,AeroStyle,₹2312,₹3397,31%,3.3,2250,3397,31%,2276,Linen,1-2 weeks,Sportswear,Fast
+https://www.example.com/product/1342,BESTSELLER,Luxora,₹1198,₹3066,60%,2.6,1100,3066,60%,1108,Polyester,1-2 weeks,Jackets,Fast
+https://www.example.com/product/1348,TRENDING,Luxora,₹1707,₹4365,60%,4.0,1619,4365,60%,1683,Cotton,1-2 weeks,Ethnicwear,Moderate
+https://www.example.com/product/1150,TRENDING,StrideMax,₹1961,₹4867,59%,3.7,1789,4867,59%,1893,Leather,2-3 days,Shirts,Moderate
+https://www.example.com/product/1013,Limited Edition,AeroStyle,₹4351,₹5999,27%,3.0,4171,5999,27%,4289,Cotton,2-3 days,Dresses,Moderate
+https://www.example.com/product/1402,Limited Edition,DenimCraft,₹711,₹2115,66%,2.0,559,2115,66%,640,Silk,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1178,TRENDING,StrideMax,₹1230,₹2149,42%,2.4,1120,2149,42%,1202,Polyester,5-7 days,Dresses,Moderate
+https://www.example.com/product/1254,Bestseller,StrideMax,₹2082,₹4922,57%,1.3,1955,4922,57%,2004,Linen,2-3 days,Handbags,Slow
+https://www.example.com/product/1226,Bestseller,UrbanEdge,₹4491,₹7031,36%,1.3,4351,7031,36%,4443,Polyester,2-3 days,Jeans,Moderate
+https://www.example.com/product/1382,TRENDING,NeoThreads,₹3191,₹3897,18%,3.3,3023,3897,18%,3096,Leather,5-7 days,Dresses,Slow
+https://www.ajio.com/the-indian-garage-co-men-checked-slim-fit-shirt-with-patch-pocket/p/460698907_beige?,Bestseller,The Indian Garage Co,₹402,₹1749,77%,1.5,2491,5232,63% Off,579,Leather,4-5 days,Footwear,Slow
+https://www.example.com/product/1228,Limited Edition,ZyraWear,₹3989,₹6185,35%,1.1,3812,6185,35%,3905,Linen,5-7 days,Ethnicwear,Slow
+https://www.example.com/product/1423,BESTSELLER,DenimCraft,₹4242,₹5532,23%,4.8,4093,5532,23%,4162,Cotton,2-3 days,Jeans,Slow
+https://www.example.com/product/1072,TRENDING,UrbanEdge,₹1059,₹2339,54%,1.0,872,2339,54%,1021,Synthetic,2-3 days,Ethnicwear,Fast
+https://www.example.com/product/1198,TRENDING,UrbanEdge,₹4797,₹6392,24%,4.1,4698,6392,24%,4731,Linen,1-2 weeks,Jeans,Fast
+https://www.example.com/product/1397,Limited Edition,Flexura,₹4781,₹6816,29%,3.1,4692,6816,29%,4756,Silk,4-5 days,Footwear,Slow
+https://www.example.com/product/1185,BESTSELLER,VogueLift,₹841,₹2748,69%,3.1,781,2748,69%,794,Linen,5-7 days,Footwear,Fast
+https://www.example.com/product/1143,Limited Edition,UrbanEdge,₹1654,₹2214,25%,4.9,1513,2214,25%,1584,Silk,4-5 days,Accessories,Fast
+https://www.example.com/product/1070,BESTSELLER,Flexura,₹2975,₹4872,38%,3.4,2796,4872,38%,2904,Linen,5-7 days,Shirts,Moderate
+https://www.example.com/product/1264,Bestseller,Luxora,₹4975,₹6074,18%,3.5,4916,6074,18%,4904,Cotton,2-3 days,Dresses,Moderate
+https://www.example.com/product/1187,Limited Edition,DenimCraft,₹1961,₹3943,50%,3.7,1842,3943,50%,1894,Silk,2-3 days,T-Shirts,Slow
+https://www.example.com/product/1033,BESTSELLER,StrideMax,₹2606,₹3461,24%,3.9,2478,3461,24%,2510,Linen,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1019,TRENDING,Luxora,₹4437,₹6741,34%,2.4,4319,6741,34%,4362,Cotton,1-2 weeks,Footwear,Moderate
+https://www.example.com/product/1004,NEW,Luxora,₹2260,₹2495,9%,3.3,2186,2495,9%,2203,Synthetic,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1239,TRENDING,UrbanEdge,₹4635,₹5242,11%,1.2,4467,5242,11%,4564,Silk,4-5 days,Ethnicwear,Slow
+https://www.example.com/product/1299,Bestseller,NeoThreads,₹4555,₹6860,33%,1.2,4360,6860,33%,4465,Leather,1-2 weeks,T-Shirts,Slow
+https://www.example.com/product/1172,Limited Edition,DenimCraft,₹3164,₹4937,35%,3.6,2968,4937,35%,3141,Nylon,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1440,Limited Edition,Flexura,₹4905,₹6212,21%,5.0,4766,6212,21%,4847,Silk,4-5 days,Jackets,Slow
+https://www.ajio.com/red-tape-women-colourblock-slide-flip-flops-/p/701800587_offwhite?,BESTSELLER,RED TAPE,₹378,₹2099,82%,1.7,3744,4254,12% Off,3654,Plastic,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1394,BESTSELLER,UrbanEdge,₹2440,₹4663,47%,1.1,2256,4663,47%,2363,Silk,2-3 days,T-Shirts,Slow
+https://www.example.com/product/1202,NEW,ZyraWear,₹3130,₹4687,33%,4.4,2990,4687,33%,3049,Silk,1-2 weeks,Jackets,Moderate
+https://www.example.com/product/1232,TRENDING,UrbanEdge,₹2838,₹4323,34%,1.1,2662,4323,34%,2771,Nylon,4-5 days,Sportswear,Slow
+https://www.example.com/product/1260,TRENDING,DenimCraft,₹3211,₹4557,29%,4.5,3151,4557,29%,3167,Cotton,1-2 weeks,Jeans,Fast
+https://www.example.com/product/1134,Bestseller,VogueLift,₹1828,₹2898,36%,1.4,1714,2898,36%,1742,Nylon,4-5 days,Footwear,Slow
+https://www.example.com/product/1395,NEW,UrbanEdge,₹2047,₹3005,31%,3.6,1859,3005,31%,2011,Silk,5-7 days,Shirts,Slow
+https://www.example.com/product/1110,Bestseller,TruStep,₹2794,₹5260,46%,1.5,2599,5260,46%,2723,Leather,4-5 days,Jeans,Slow
+https://www.example.com/product/1034,Bestseller,UrbanEdge,₹3205,₹5964,46%,3.3,3043,5964,46%,3169,Polyester,5-7 days,Accessories,Fast
+https://www.example.com/product/1107,Limited Edition,AeroStyle,₹3457,₹6036,42%,1.5,3334,6036,42%,3405,Leather,2-3 days,T-Shirts,Slow
+https://www.example.com/product/1100,BESTSELLER,NeoThreads,₹3135,₹4456,29%,2.0,3062,4456,29%,3062,Leather,4-5 days,Footwear,Fast
+https://www.example.com/product/1445,NEW,Luxora,₹2029,₹2835,28%,2.6,1894,2835,28%,1935,Polyester,2-3 days,Sportswear,Moderate
+https://www.ajio.com/lakme-9-to-5-complexion-care-face-cream--bronze/p/4910462680_multi?,BESTSELLER,LAKME,₹211,₹399,47%,4.0,3666,6313,83% Off,1059,Synthetic,5-7 days,Footwear,Moderate
+https://www.example.com/product/1298,Limited Edition,DenimCraft,₹2168,₹3955,45%,1.4,2117,3955,45%,2144,Leather,2-3 days,Jackets,Slow
+https://www.example.com/product/1432,Limited Edition,VogueLift,₹3426,₹4590,25%,1.9,3299,4590,25%,3338,Nylon,1-2 weeks,Dresses,Fast
+https://www.example.com/product/1036,BESTSELLER,AeroStyle,₹1067,₹3974,73%,1.2,921,3974,73%,1003,Silk,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1272,TRENDING,UrbanEdge,₹2860,₹3579,20%,1.4,2809,3579,20%,2779,Denim,5-7 days,T-Shirts,Slow
+https://www.ajio.com/the-indian-garage-co-men-striped-slim-fit-shirt-with-patch-pocket/p/460907277_blue?,BESTSELLER,The Indian Garage Co,₹472,₹1749,73%,2.1,2307,6166,24% Off,392,Leather,5-7 days,Footwear,Moderate
+https://www.example.com/product/1128,Bestseller,Flexura,₹331,₹1165,71%,1.2,278,1165,71%,254,Polyester,1-2 weeks,Handbags,Slow
+https://www.example.com/product/1012,TRENDING,AeroStyle,₹4290,₹5410,20%,2.4,4145,5410,20%,4223,Leather,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1351,NEW,Flexura,₹479,₹2169,77%,4.7,395,2169,77%,424,Linen,4-5 days,Accessories,Moderate
+https://www.example.com/product/1428,Limited Edition,Luxora,₹2001,₹2770,27%,2.1,1908,2770,27%,1966,Nylon,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1383,Bestseller,AeroStyle,₹761,₹1644,53%,4.2,626,1644,53%,733,Silk,2-3 days,Jackets,Moderate
+https://www.example.com/product/1188,BESTSELLER,VogueLift,₹919,₹2683,65%,1.8,858,2683,65%,861,Polyester,4-5 days,T-Shirts,Slow
+https://www.example.com/product/1251,TRENDING,VogueLift,₹2173,₹3590,39%,1.2,2088,3590,39%,2092,Denim,4-5 days,Footwear,Fast
+https://www.example.com/product/1403,Bestseller,DenimCraft,₹1644,₹2274,27%,2.6,1538,2274,27%,1621,Leather,4-5 days,Accessories,Moderate
+https://www.example.com/product/1399,BESTSELLER,Luxora,₹2624,₹4509,41%,1.7,2547,4509,41%,2552,Synthetic,4-5 days,Handbags,Slow
+https://www.example.com/product/1309,BESTSELLER,AeroStyle,₹572,₹2546,77%,4.0,405,2546,77%,489,Synthetic,1-2 weeks,Sportswear,Slow
+https://www.example.com/product/1208,BESTSELLER,NeoThreads,₹3749,₹5453,31%,1.7,3586,5453,31%,3670,Nylon,2-3 days,Shirts,Moderate
+https://www.example.com/product/1179,TRENDING,AeroStyle,₹3796,₹4140,8%,4.0,3670,4140,8%,3776,Synthetic,2-3 days,Sportswear,Fast
+https://www.example.com/product/1184,Bestseller,NeoThreads,₹2770,₹4881,43%,1.0,2695,4881,43%,2673,Cotton,5-7 days,T-Shirts,Fast
+https://www.example.com/product/1267,BESTSELLER,AeroStyle,₹2561,₹4868,47%,1.9,2406,4868,47%,2473,Denim,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1426,Limited Edition,ZyraWear,₹1115,₹3859,71%,1.2,957,3859,71%,1018,Polyester,1-2 weeks,T-Shirts,Moderate
+https://www.example.com/product/1223,Limited Edition,AeroStyle,₹2784,₹3937,29%,3.6,2729,3937,29%,2686,Synthetic,4-5 days,Accessories,Fast
+https://www.example.com/product/1457,TRENDING,UrbanEdge,₹978,₹3545,72%,2.4,834,3545,72%,900,Polyester,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1427,BESTSELLER,DenimCraft,₹3553,₹3860,7%,2.7,3482,3860,7%,3518,Polyester,1-2 weeks,Handbags,Slow
+https://www.example.com/product/1275,Bestseller,DenimCraft,₹396,₹2368,83%,4.8,341,2368,83%,362,Linen,1-2 weeks,Dresses,Fast
+https://www.example.com/product/1322,Bestseller,Luxora,₹1438,₹1954,26%,4.3,1307,1954,26%,1373,Polyester,2-3 days,Dresses,Moderate
+https://www.example.com/product/1241,TRENDING,Flexura,₹3912,₹5483,28%,3.1,3794,5483,28%,3882,Linen,1-2 weeks,Jeans,Moderate
+https://www.example.com/product/1173,BESTSELLER,ZyraWear,₹2015,₹2758,26%,4.0,1903,2758,26%,1932,Linen,2-3 days,T-Shirts,Moderate
+https://www.example.com/product/1133,BESTSELLER,DenimCraft,₹470,₹2110,77%,3.0,419,2110,77%,424,Synthetic,5-7 days,Shirts,Moderate
+https://www.example.com/product/1015,NEW,AeroStyle,₹2375,₹4583,48%,4.5,2204,4583,48%,2306,Synthetic,5-7 days,Ethnicwear,Moderate
+https://www.example.com/product/1189,TRENDING,TruStep,₹1548,₹3802,59%,3.0,1389,3802,59%,1526,Denim,1-2 weeks,Shirts,Fast
+https://www.example.com/product/1373,Bestseller,Luxora,₹3656,₹5591,34%,4.8,3594,5591,34%,3634,Denim,2-3 days,Sportswear,Slow
+https://www.example.com/product/1162,TRENDING,AeroStyle,₹2439,₹3232,24%,4.9,2346,3232,24%,2373,Nylon,2-3 days,Jeans,Slow
+https://www.example.com/product/1281,Limited Edition,NeoThreads,₹3114,₹5706,45%,4.9,2987,5706,45%,3031,Cotton,1-2 weeks,Shirts,Fast
+https://www.example.com/product/1231,BESTSELLER,NeoThreads,₹400,₹2941,86%,1.1,227,2941,86%,313,Linen,5-7 days,Accessories,Moderate
+https://www.example.com/product/1077,BESTSELLER,Luxora,₹316,₹2894,89%,2.6,133,2894,89%,246,Nylon,5-7 days,Shirts,Slow
+https://www.example.com/product/1025,BESTSELLER,StrideMax,₹3771,₹4750,20%,2.5,3613,4750,20%,3727,Polyester,1-2 weeks,Footwear,Moderate
+https://www.example.com/product/1361,NEW,VogueLift,₹2510,₹4396,42%,3.7,2328,4396,42%,2438,Denim,4-5 days,Footwear,Fast
+https://www.ajio.com/puma-dart-one8-idp-lace-up-sneakers/p/469058769_black?,Bestseller,Puma,₹1400,₹3999,65%,2.8,3642,3612,19% Off,2055,Leather,1-2 weeks,Footwear,Fast
+https://www.example.com/product/1410,Limited Edition,StrideMax,₹1337,₹2111,36%,2.3,1287,2111,36%,1314,Leather,5-7 days,Dresses,Fast
+https://www.example.com/product/1451,Bestseller,ZyraWear,₹4348,₹5308,18%,1.2,4177,5308,18%,4280,Leather,5-7 days,Footwear,Slow
+https://www.example.com/product/1021,TRENDING,AeroStyle,₹3785,₹4285,11%,1.2,3619,4285,11%,3748,Polyester,2-3 days,Sportswear,Slow
+https://www.example.com/product/1391,NEW,UrbanEdge,₹1522,₹3890,60%,3.3,1469,3890,60%,1433,Polyester,2-3 days,Dresses,Moderate
+https://www.example.com/product/1052,NEW,TruStep,₹2842,₹3505,18%,4.2,2786,3505,18%,2771,Synthetic,5-7 days,Jeans,Moderate
+https://www.example.com/product/1177,Limited Edition,TruStep,₹1964,₹4763,58%,4.5,1812,4763,58%,1868,Silk,5-7 days,Handbags,Fast
+https://www.example.com/product/1006,Limited Edition,StrideMax,₹368,₹591,37%,2.2,239,591,37%,286,Polyester,2-3 days,Jeans,Slow
+https://www.example.com/product/1235,TRENDING,NeoThreads,₹2364,₹3880,39%,3.0,2282,3880,39%,2281,Silk,4-5 days,Dresses,Fast
+https://www.example.com/product/1338,BESTSELLER,NeoThreads,₹550,₹3084,82%,2.6,359,3084,82%,463,Nylon,5-7 days,Shirts,Moderate
+https://www.example.com/product/1063,Limited Edition,NeoThreads,₹3204,₹4082,21%,2.8,3081,4082,21%,3143,Leather,4-5 days,Jackets,Moderate
+https://www.example.com/product/1311,NEW,Luxora,₹2998,₹5507,45%,1.1,2931,5507,45%,2974,Silk,1-2 weeks,T-Shirts,Slow
+https://www.example.com/product/1442,TRENDING,DenimCraft,₹3100,₹5472,43%,3.7,3012,5472,43%,3064,Silk,4-5 days,Shirts,Fast
+https://www.example.com/product/1024,BESTSELLER,Luxora,₹1489,₹3955,62%,1.7,1375,3955,62%,1466,Linen,4-5 days,Accessories,Moderate
+https://www.example.com/product/1317,BESTSELLER,TruStep,₹2964,₹3723,20%,3.2,2805,3723,20%,2904,Linen,2-3 days,Jackets,Slow
+https://www.example.com/product/1236,TRENDING,UrbanEdge,₹1876,₹3777,50%,3.2,1707,3777,50%,1811,Denim,1-2 weeks,Jeans,Fast
+https://www.example.com/product/1213,Bestseller,ZyraWear,₹1178,₹4056,70%,3.6,1097,4056,70%,1121,Denim,5-7 days,Dresses,Slow
+https://www.ajio.com/red-tape-men-black-lifestyle-sneakers-/p/700429398_black?,Bestseller,RED TAPE,₹1207,₹7099,83%,2.7,4724,2449,19% Off,4948,Cotton,2-3 days,Footwear,Fast
+https://www.example.com/product/1287,BESTSELLER,StrideMax,₹334,₹1853,81%,1.9,185,1853,81%,251,Linen,5-7 days,Jackets,Moderate
+https://www.example.com/product/1060,TRENDING,NeoThreads,₹2837,₹5555,48%,1.7,2716,5555,48%,2738,Synthetic,2-3 days,Accessories,Fast
+https://www.example.com/product/1359,NEW,NeoThreads,₹1124,₹1906,41%,1.9,962,1906,41%,1042,Denim,2-3 days,Jackets,Slow
+https://www.example.com/product/1245,TRENDING,NeoThreads,₹575,₹1893,69%,2.4,376,1893,69%,519,Silk,4-5 days,Dresses,Fast
+https://www.example.com/product/1138,TRENDING,UrbanEdge,₹2260,₹4329,47%,4.3,2123,4329,47%,2183,Denim,2-3 days,Sportswear,Fast
+https://www.example.com/product/1300,BESTSELLER,StrideMax,₹3445,₹6170,44%,3.9,3306,6170,44%,3419,Polyester,4-5 days,Footwear,Fast
+https://www.example.com/product/1461,BESTSELLER,VogueLift,₹3812,₹6295,39%,4.5,3642,6295,39%,3767,Silk,5-7 days,Jeans,Slow
+https://www.example.com/product/1106,NEW,Flexura,₹1900,₹3506,45%,1.6,1759,3506,45%,1819,Silk,2-3 days,Jeans,Slow
+https://www.example.com/product/1278,Limited Edition,AeroStyle,₹4314,₹4591,6%,2.2,4136,4591,6%,4289,Cotton,4-5 days,Jackets,Slow
+https://www.example.com/product/1449,BESTSELLER,TruStep,₹2716,₹5307,48%,3.8,2647,5307,48%,2632,Synthetic,5-7 days,Dresses,Moderate
+https://www.example.com/product/1291,BESTSELLER,Flexura,₹4447,₹7378,39%,1.4,4347,7378,39%,4426,Nylon,2-3 days,Handbags,Slow
+https://www.example.com/product/1215,Bestseller,NeoThreads,₹4897,₹5128,4%,4.1,4726,5128,4%,4857,Silk,1-2 weeks,Accessories,Fast
+https://www.example.com/product/1026,BESTSELLER,Luxora,₹2913,₹5600,47%,3.5,2792,5600,47%,2843,Cotton,4-5 days,Footwear,Moderate
+https://www.example.com/product/1335,Bestseller,UrbanEdge,₹3071,₹5837,47%,2.2,2948,5837,47%,3040,Cotton,2-3 days,Footwear,Moderate
+https://www.example.com/product/1022,Limited Edition,DenimCraft,₹1752,₹1953,10%,1.5,1575,1953,10%,1659,Denim,2-3 days,Sportswear,Slow
+https://www.example.com/product/1425,NEW,Flexura,₹1868,₹4642,59%,1.7,1782,4642,59%,1843,Cotton,1-2 weeks,T-Shirts,Slow
+https://www.example.com/product/1146,BESTSELLER,VogueLift,₹2688,₹3581,24%,3.9,2616,3581,24%,2610,Silk,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1417,TRENDING,Luxora,₹1634,₹4503,63%,2.1,1577,4503,63%,1611,Linen,1-2 weeks,Dresses,Moderate
+https://www.example.com/product/1161,Limited Edition,DenimCraft,₹1397,₹3543,60%,1.5,1238,3543,60%,1328,Leather,5-7 days,Footwear,Fast
+https://www.example.com/product/1465,Limited Edition,TruStep,₹1296,₹3753,65%,4.5,1097,3753,65%,1257,Nylon,2-3 days,Jackets,Slow
+https://www.example.com/product/1159,TRENDING,AeroStyle,₹4025,₹5926,32%,3.4,3919,5926,32%,3941,Leather,2-3 days,T-Shirts,Moderate
+https://www.example.com/product/1141,BESTSELLER,DenimCraft,₹4775,₹7620,37%,3.0,4696,7620,37%,4726,Linen,4-5 days,Handbags,Slow
+https://www.example.com/product/1030,Bestseller,AeroStyle,₹508,₹1075,52%,3.2,347,1075,52%,469,Polyester,2-3 days,Shirts,Moderate
+https://www.example.com/product/1020,Limited Edition,UrbanEdge,₹3471,₹3912,11%,2.5,3358,3912,11%,3375,Leather,2-3 days,Ethnicwear,Slow
+https://www.example.com/product/1316,Bestseller,Flexura,₹1181,₹1882,37%,3.4,999,1882,37%,1139,Leather,2-3 days,T-Shirts,Moderate
+https://www.example.com/product/1207,NEW,VogueLift,₹4423,₹6899,35%,2.7,4273,6899,35%,4393,Polyester,2-3 days,Shirts,Fast
+https://www.example.com/product/1224,Bestseller,ZyraWear,₹1856,₹3679,49%,3.7,1675,3679,49%,1760,Nylon,5-7 days,Jeans,Moderate
+https://www.ajio.com/red-tape-men-flip-flops-with-rubber-upper/p/701516512_olive?,BESTSELLER,RED TAPE,₹391,₹2299,83%,4.2,3723,6648,44% Off,3326,Leather,1-2 weeks,Clothing,Fast
+https://www.example.com/product/1285,TRENDING,ZyraWear,₹2639,₹5499,52%,3.0,2455,5499,52%,2570,Synthetic,2-3 days,Sportswear,Moderate
+https://www.example.com/product/1431,Bestseller,Flexura,₹1352,₹3337,59%,3.5,1212,3337,59%,1324,Synthetic,2-3 days,Jackets,Moderate
+https://www.example.com/product/1132,BESTSELLER,ZyraWear,₹3868,₹6825,43%,4.4,3677,6825,43%,3799,Denim,5-7 days,Handbags,Moderate
+https://www.example.com/product/1248,TRENDING,Flexura,₹3574,₹4151,13%,3.1,3413,4151,13%,3487,Polyester,2-3 days,Jackets,Moderate
+https://www.example.com/product/1415,TRENDING,NeoThreads,₹1246,₹2898,57%,2.1,1139,2898,57%,1188,Nylon,2-3 days,Ethnicwear,Moderate
+https://www.example.com/product/1163,NEW,DenimCraft,₹2431,₹5014,51%,3.5,2311,5014,51%,2348,Cotton,4-5 days,Jeans,Slow
+https://www.example.com/product/1357,NEW,AeroStyle,₹1453,₹2541,42%,2.0,1328,2541,42%,1371,Synthetic,4-5 days,Shirts,Fast
+https://www.example.com/product/1265,BESTSELLER,VogueLift,₹4490,₹6736,33%,4.3,4293,6736,33%,4412,Polyester,5-7 days,Ethnicwear,Fast
+https://www.example.com/product/1385,Bestseller,UrbanEdge,₹1153,₹4137,72%,4.0,975,4137,72%,1069,Linen,4-5 days,Handbags,Moderate
+https://www.example.com/product/1315,TRENDING,DenimCraft,₹4010,₹4857,17%,2.0,3911,4857,17%,3965,Leather,5-7 days,Shirts,Slow
+https://www.example.com/product/1229,Limited Edition,NeoThreads,₹4672,₹5899,20%,1.7,4566,5899,20%,4617,Linen,5-7 days,Sportswear,Moderate
+https://www.example.com/product/1280,Bestseller,NeoThreads,₹3449,₹6365,45%,3.4,3250,6365,45%,3388,Denim,1-2 weeks,Footwear,Slow
+https://www.example.com/product/1121,Limited Edition,Luxora,₹4810,₹6554,26%,4.6,4743,6554,26%,4721,Polyester,4-5 days,Jeans,Slow
+https://www.example.com/product/1102,Limited Edition,UrbanEdge,₹3136,₹3984,21%,2.1,2998,3984,21%,3106,Leather,4-5 days,Jackets,Fast
+https://www.example.com/product/1123,TRENDING,DenimCraft,₹1871,₹4450,57%,1.1,1681,4450,57%,1797,Polyester,5-7 days,Ethnicwear,Fast
+https://www.example.com/product/1331,BESTSELLER,VogueLift,₹1725,₹3249,46%,4.3,1620,3249,46%,1632,Denim,1-2 weeks,Ethnicwear,Fast
+https://www.example.com/product/1071,TRENDING,Flexura,₹4532,₹6200,26%,4.5,4366,6200,26%,4444,Denim,4-5 days,T-Shirts,Fast
+https://www.example.com/product/1344,Limited Edition,DenimCraft,₹3152,₹3584,12%,1.7,2954,3584,12%,3106,Cotton,4-5 days,Sportswear,Fast
+https://www.example.com/product/1059,TRENDING,Luxora,₹2384,₹3717,35%,4.7,2334,3717,35%,2294,Cotton,2-3 days,Shirts,Slow
+https://www.example.com/product/1430,TRENDING,TruStep,₹2385,₹3159,24%,1.6,2317,3159,24%,2340,Nylon,5-7 days,Accessories,Fast
+https://www.example.com/product/1302,Bestseller,NeoThreads,₹3688,₹5042,26%,1.5,3553,5042,26%,3617,Nylon,5-7 days,Dresses,Slow
+https://www.example.com/product/1186,Limited Edition,NeoThreads,₹2667,₹5175,48%,1.9,2520,5175,48%,2601,Polyester,1-2 weeks,Sportswear,Moderate
+https://www.example.com/product/1438,Bestseller,NeoThreads,₹3233,₹4770,32%,4.9,3116,4770,32%,3141,Leather,4-5 days,Handbags,Moderate
+https://www.example.com/product/1093,Limited Edition,AeroStyle,₹835,₹2146,61%,4.2,723,2146,61%,759,Synthetic,1-2 weeks,Jeans,Slow
+https://www.example.com/product/1468,Limited Edition,UrbanEdge,₹1051,₹3570,70%,2.2,919,3570,70%,987,Silk,4-5 days,Jackets,Slow
+https://www.ajio.com/van-heusen-men-round-toe-slip-on-shoes/p/469649594_brown?,BESTSELLER,VAN HEUSEN,₹2150,₹4299,50%,3.3,1668,6179,73% Off,1409,Leather,4-5 days,Footwear,Fast
+https://www.example.com/product/1160,NEW,DenimCraft,₹489,₹1903,74%,4.7,339,1903,74%,420,Linen,2-3 days,Dresses,Moderate
+https://www.example.com/product/1043,BESTSELLER,ZyraWear,₹4676,₹6473,27%,2.3,4565,6473,27%,4652,Linen,2-3 days,Dresses,Slow
+https://www.example.com/product/1078,Limited Edition,VogueLift,₹4590,₹5157,10%,2.6,4537,5157,10%,4517,Silk,2-3 days,Jeans,Moderate
+https://www.example.com/product/1242,TRENDING,StrideMax,₹4051,₹5170,21%,2.4,3918,5170,21%,3972,Synthetic,4-5 days,Jeans,Moderate
+https://www.example.com/product/1320,TRENDING,Flexura,₹2236,₹4763,53%,2.8,2159,4763,53%,2149,Leather,2-3 days,Accessories,Fast
+https://www.example.com/product/1407,Limited Edition,ZyraWear,₹4269,₹6535,34%,4.3,4101,6535,34%,4201,Cotton,1-2 weeks,T-Shirts,Moderate
+https://www.example.com/product/1074,Bestseller,StrideMax,₹2010,₹3757,46%,1.1,1812,3757,46%,1990,Denim,4-5 days,Jackets,Slow
